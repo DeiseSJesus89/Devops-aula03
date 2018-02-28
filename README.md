@@ -7,3 +7,4 @@
 *Subversion
 *CVS
 GitLab
+GitHub
